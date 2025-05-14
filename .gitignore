@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+.DS_Store
+models/finetuned/*
+models/pretrained/*
+my_finetune_4.10/.idea
+my_finetune_4.10/data/*
+task1/__pycache__
+task2/__pycache__
+task2_lightweight/__pycache__
+task2_lightweight/output/checkpoint-epoch-1
+task2_lightweight/output/checkpoint-epoch-3
+task2_lightweight/output/checkpoint-epoch-2
+task2_lightweight/output/checkpoint-epoch-5
+task2_lightweight/output/checkpoint-epoch-4
+/task2_lightweight/output/best_model.pth

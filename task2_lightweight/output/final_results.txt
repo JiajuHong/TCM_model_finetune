@@ -1,0 +1,3 @@
+Best epoch: 5
+Best train loss: 0.1620
+No validation data was provided.
